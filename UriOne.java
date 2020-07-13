@@ -10,6 +10,6 @@ public class UriOne {
         A = input.nextInt();
         B = input.nextInt();
         X=A+B;
-        System.out.println("X = "+X+"\n");
+        System.out.print("X = "+X+"\n");
     }
 }
